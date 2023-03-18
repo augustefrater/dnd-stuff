@@ -1,0 +1,3 @@
+#loot #karvodai #bbeg 
+
+[[karvodai]]

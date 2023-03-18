@@ -1,0 +1,3 @@
+#goals  #karvodai  #bbeg
+
+[[karvodai]]
