@@ -76,3 +76,20 @@ aussi t'a ton niveau de warlock.
 optionels **s'enerve de plus en plus**: je n'aurais pas du me faire emprisoner ; — le moment serait toujours venu de dire ce mot-là !… — Demain, puis demain, puis demain — ma concience glisse à petits pas de jour en jour sans jamais disparaitre — jusqu’à la dernière syllabe du registre des temps *essaie de se calmer et se recollecte* mais on est la pour parler de toi
 
 [[teamfling]]
+
+levistus pour lui est sa volonte d'etre un hero et la solution a sa faiblesse qui l'empeche de l'etre.
+nemphir a envie de pouvoir et d'heroisme , de l'acceptance de son mentor qu'il admire et apr extension du peuple.
+ce dont il a besoin c'est de trouver une cause a defendre non par pour reconaissance sociale mais pour la cause en elle meme.
+
+Levistus apparait clairement comme un demon parceque le heros est pret a faire "ce qui est necessaire" pour sauver des gens. c'est un sacrifice pas un deal.
+cette volonte viens d'une education qui mettait sa valeur en tant que personne dans son utilite a sa famille. il s'est libere en partie de ca mais pense quand meme que sa valeure viens de son utilite dans son subconcient.
+
+sa mission? abuser de son authorite pour chopper des objets dans des endroits securises uniquement acessibles a lui. c'est aps immediatement des trucs qui lui servent c'est d'abbord pour pente glissant cet encule. le corrompre petit a petit en lui faisant pense qu'il a toujours le bien commun come objectif et comme effet.
+
+il doit voler en premier objet un trousseau clef de cellule au repere de la garde terrelacienne et liberer un prisonier plus tard.
+son objectif final est de voler a un ordre de templiers une clef arcane indestructible qui represent le concept de liberte prise a un criminel qui peut etre faconee en la forme necessaire a rejoindre son proprietaire original.
+
+c'est une arme magique qui peut lancer des sorts et permet de changer de forme a volonte a la fois en arme et en objets pas trop complexes pour un jet de charisme, int ou sagesse avec des effts differents si jamais ceux ci ratent. c'est aussi un objet maudit qui demande de l'energie sous la forme d'objets avec une energie emotionelle atachee pour des charges. ces souvenirs ataches apr legend lore est une des seules formes de divertissement de levistus. une fois amenee a la prison du prince de la thraison elle seule peut puvrir ses chaines et c'est la seule facon de detruire la clef.
+
+donc si ils se retrouvent la bas arthur perds son arme et ses pouvoirs de warlock si jamais ils essaient de le battre.
+ila quand meme l'entrainement pour prendre la puissance d'une source divine par pacte. faut juste qu'il trouve une autre source de pouvoir. ca peut etre une deite de son choix, un npc si celui ci a un pouvoir divin. ca peut aussi etre un pouvoir plus funky genre la promesse qu'il fait a lui meme et la representation de son serment qu'il sert maintenent par foi et donc par extension il puise dans la source de pouvoir divine de la confiance en l'altruisme inherent aux humains. ca peut etre resume et ca le sera comme "j'ai juste confiance en moi".
