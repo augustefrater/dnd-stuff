@@ -1,3 +1,41 @@
+
+!! do for the oneshot !!
+
+arthur get the fuck out
+
+i will eat your metal dice if i catch you, i will eat them with my mouth. i may die tasting revenge but the sweet taste of it will rival ambrosia
+
+concept:
+the emperor died without an heir, he has left a will that contains the name of the inheritor of the throne, but if the name of someone alive isnt found, the noble will have to elect the next leader of the empire
+
+-----
+
+pcs:
+
+the church of Oghma, elven god of knowlege has vast knowlege available for the masses, and almost as much dirt, plans, contingences and agents wating to be used to get the chuch into a better position to get power, for what is the use of knowlege if left to rot?
+a team of 4 mostly expandable agents has been sent to skew the results of the power passasion in order to make their own puppet hold the strings of the empire.
+gars a faire elir c'est lord herbert de gnommia
+
+that same church has hidden away the true heir to the throne, a young half elven half orc lady that is sceptical about the church and the usefullness of all that regency bullshit. the church wants to prevent her from acessing the throne, as most people knowing her blood's significance do, because she isnt a reliable agent.
+doit ne pas se faire reperer
+sait que y'a une team qui cherche a mettre un memebre de l'eglise au pouvoir et qu'elle est la backup
+
+a sincere but delusional bard, thinking themself a hero of the people but who's an involontary conman stumbled into the party, frustrated that they did not get an invite to that once in a lifetime event, worthy of their attention. it's unclear if they saw the lights on and decided to enter or if they were influenced by a changeling in disguise
+would enjoy a good duel, i'll have to make one
+
+going from twn to town and adopting a new face at each stop, a changling that dosent remember his original form needs to find an who he is. each village is the same. a handsome stranger walks in, makes friends and an honest ilfe for himself, begins to become popular, and at the first mischeif or slip, you get torches and pitchforks pointed at you, running to then next town the road leads you too. at the anouncement of the death of the imperator, a question pops in the head of the nomad shapeshifter : what best to become than the ruler to find yourself?
+falsified the titles of Herbert of gnomia
+is the object of a quest for revange from William sebille
+
+in the midst of nobles and heroes trying to seize the title is a humble artificer that wants to use his place into the castle to alter the course of the night in order to put a benevolent emperor at the helm of his land
+wants to make it so amadeus takes the head of the country.
+
+an orc warrior, searching for worthy opponents is provided them by a deal with a fey, they have to protect a guy and kill another this fatefull night
+guy to defend is Elrond Minnil, un noble elf exentrique qui est connu pour ses inventions
+guy to kill is samson rigard, an assasin sent to kill Elrond disguised as a noble. the orc does not know he is an assasin.
+
+-----
+
 Le Patriarche, plus haut membre de l'eglise d'Oghma, ne veut pas etre directement au pouvoir mais veut installer qqn qu'il peut controler.
 cette personne est Lord Herbert de gnomsia, voir pourquoi plus bas.
 Si jamais c'est plus une option ca sera l'heritiere cachee
@@ -48,7 +86,7 @@ il y a en verite un groupe de triples elfes qui ont pris ce deguisement pour but
 -----
 
 Antoine deverrier est un marchand humain, noble non de naissance mais par un titre donne personellement par l'empereur.
-il est le candidat de choix, etant suspete d'etre le partenaire de l'empereur la raison pour laquelle celui-ci n'a pas eu de succes a avoir un decendant.
+il est le candidat de choix, etant suspecte d'etre le partenaire de l'empereur la raison pour laquelle celui-ci n'a pas eu de succes a avoir un decendant.
 son nom est probablement sur l'heritage, ce qui fait de li une cible extreme pour beaucoup de nobles.
 il est donc tres bien protege.
 durant la dance, un noble va essayer de passer a travers ses gardes par duel, demandant retribution pour avoir pris la premierre dance de sa fillancee

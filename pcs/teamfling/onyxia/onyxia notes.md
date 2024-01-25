@@ -37,6 +37,8 @@ exchanged a place on the caravane for defense force
 [[onyxia.pdf]]
 [[teamfling]]
 
+maybe ice spell specialisation
+
 she wants freedom
 she wants to do things and have power and explore by herself
 how do i put a deal with a devil in this.

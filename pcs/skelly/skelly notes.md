@@ -1,19 +1,21 @@
 [[pcs]]
-commence en l'an 458 du calendrier commun, ca fait 1 an et 8mois depuis le start
+commence en l'an 458 du calendrier commun, ca fait 1 an et 8 mois depuis le start
 
 prochain spawn: -810 feywild
-npcs: 
+npcs:
 
 ygdrasil le dragon de bronze invoque a partir d'un arbre. gardien de la banque du vieux chene
 
 jack, l'investisseur et maintenant responsable de la mine de Bronze
+
+
 
 kili, chef du departement de comptabilite de Bronze
 
 ulvuk, un moine geant des tempetes qui a entraine skelly dans les arts martiaux
 
 ludret, un arcano-zoologue qui l'a aide a trouver ulvuk. est en ce moment kidnappe
- 
+
 thragar, pote de ludret qui le cherche mais previens personne parcequ'il a peur
 
 sivread, l'avocat de skelly
@@ -22,7 +24,7 @@ tulio et miguel, un barde et un voleur qui ont travailles avec lui
 
 lormuc, le garde de bronze
 
-grindor, rundoli, thornikara et ebylinn, les pecheurs qui l'ont trouves 
+grindor, rundoli, thornikara et ebylinn, les pecheurs qui l'ont trouves
 
 bob the body builder, necromancien
 
@@ -30,7 +32,7 @@ bonus passifs:
 100platine/semaine
 trucs en cours:
 -dans un 5mois mois y'a les premiers nains magiques mieurs
-2 const 4 6 8 force
+2 const 4 6 8 force 10 dex
 
 trucs a faire:
 -rendre la mine magique et communiste
@@ -55,8 +57,8 @@ ameliorations de l'arme:
 - permet de caster thuderous smite et en donne une utilisation gratuite par jour
 
 dans la picece
--2 golems de fer qui font des stunning strike
--portail vers le plan astral
+- 2 golems de fer qui font des stunning strike
+- portail vers le plan astral
 
 
 

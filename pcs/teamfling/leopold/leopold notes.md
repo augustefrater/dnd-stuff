@@ -59,7 +59,7 @@ it's multiplied by 1.5
 
 you can fail to do the art peice, the chance of success is equal to level / (11 + spell level)
 
-what does he want in exchange? to eventually take the group to hell to staiga in order to free him, his powers helping to 
+what does he want in exchange? to eventually take the group to hell to staiga in order to free him, "his powers" helping to do that
 
 [[teamfling]]
 
