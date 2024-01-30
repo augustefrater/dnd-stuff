@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "355fb8a243855ff5",
+    "type": "split",
+    "children": [
+      {
+        "id": "432e9103c660036b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "npcs/farimis, monach of the court of pizzazz/farimis.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af1acf8cf325a641",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b8434052629fb91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3000f4229e0ea99a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "489ae2d89aa8e482",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8336d0f6dea5ba79",
+    "type": "split",
+    "children": [
+      {
+        "id": "71401907da90feb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "badbb244927992fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "npcs/farimis, monach of the court of pizzazz/farimis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "432e9103c660036b",
+  "lastOpenFiles": [
+    "npcs/farimis, monach of the court of pizzazz/farimis.md",
+    "npcs/farimis, monach of the court of pizzazz/farimis backstory.md",
+    "npcs/farimis, monach of the court of pizzazz/farimis description.md",
+    "npcs/farimis, monach of the court of pizzazz/drip.png"
+  ]
+}
