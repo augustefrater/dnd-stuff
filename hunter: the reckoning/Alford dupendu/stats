@@ -1,0 +1,56 @@
+name: Maximilien koios Dependu
+concept: huge nerd
+creed: inquisitive
+cell:
+ambition: have a live monster in captivity to study
+desire: disseminate knowledge
+
+drive: curiosity
+redemption: 
+
+phys:
+  STR 2
+  DEX 3
+  STA 2
+
+social:
+  CHA 1
+  MAN 2
+  COM 3
+
+mental:
+  INT 4
+  WIS 2
+  RES 3
+
+health: 2
+willpower: 4
+
+skills:
+  craft: 2 : trapper
+  driving: 1
+  animal: 1
+  etiquette: 3
+  insight: 2
+  leadership: 1
+  persuasion: 1
+  academics: 3 : history of sciences
+  awareness: 1
+  finance: 2
+  investigation: 1
+  madcine: 2
+  occult: 3 : grimoires
+  politics: 1
+  science : 2 : biology
+
+edges and perks:
+  librairy
+  who are they, how to hurt them
+
+advantages and flaws:
+  aura surnaturelle: 2
+  recources: 1
+  statut: 1
+  safe house: 2
+    compromised: 2
+    laboratory : 1

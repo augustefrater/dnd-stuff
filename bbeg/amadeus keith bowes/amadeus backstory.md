@@ -1,3 +1,0 @@
-#backstory #amadeus #bbeg
-
-[[amadeus]]

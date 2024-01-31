@@ -1,2 +1,0 @@
-#backstory #lothaire #npc
-[[lothaire]]

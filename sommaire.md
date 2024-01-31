@@ -1,7 +1,0 @@
-[[npcs]]
-[[bbegs]]
-[[magic shops]]
-[[items magiques]]
-[[pcs]]
-[[homebrews]]
-[[ideas to implement]]
