@@ -1,3 +1,0 @@
-#backstory  #karvodai #bbeg 
-
-[[karvodai]]

@@ -1,3 +1,0 @@
-#backstory #farimis #backstory
-
-[[farimis]]

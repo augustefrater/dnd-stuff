@@ -1,3 +1,0 @@
-#relations #karvodai  #bbeg 
-
-[[karvodai]]
