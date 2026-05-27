@@ -1,0 +1,123 @@
+this system needs the use of a deck of a standard tarot's major arcana.
+
+when a player dies, they will draw 3 cards from the deck. players can only have a maximum of 3 cards.
+all cards have 3 keywords associated with them, players can use a card to affect the world based on these vague keywords.
+some cards also have specific effects, more powerful but strictly defined.
+all cards can also be used in a number of ways to be listed below, often less powerful, but way less situational than the unique powers the cards have.
+using a card puts it in the discard pile and gives a trope point to the GM. once the deck is empty, the discard pile is shuffled and replaces the deck.
+trope points can be used by the GM to affect the world based on horror media tropes. using a trope point gives back a card to the players, the first one that has space in their hand clockwise from the last person who got a card this way or from the GM if it is the first time.
+trope points are always equivalent to the number of cards the dead players are missing.
+
+all cards can be used to:
+
+    augment the size category of a dice for a single roll.
+
+    communicate with the living. the amount of information and what is communicated will depend on the medium used for communication.
+        ouija board: the player can move the pointer 1d4 + 1 times
+        crystal ball: the player has 6 seconds to describe a purely visual scene.
+
+    affect the world using their keywords:
+        0       The fool:
+                    spontaneity
+                    freedom
+                    recklessness
+        I       The magician:
+                    manifestation
+                    power
+                    manipulation
+        II      The high Priestess:
+                    perception
+                    wisdom
+                    secrets
+        III     The empress:
+                    beauty
+                    abundance
+                    dependance
+        IV      The empereor:
+                    structure
+                    retribution
+                    inflexibility
+        V       The hierophant:
+                    conformity
+                    wisdom
+                    paranoia
+        VI      The lovers:
+                    relationships
+                    emotion
+                    conflict
+        VII     The chariot:
+                    control
+                    power
+                    opposition
+        VIII    Strength:
+                    confidence
+                    power
+                    vulnerability
+        IX      The hermit:
+                    distance
+                    wisdom
+                    loneliness
+        X       Wheel of fortune:
+                    chance
+                    abundance
+                    repetition
+        XI      Justice:
+                    law
+                    retribution
+                    unfairness
+        XII     The hanged man:
+                    perspective
+                    freedom
+                    indecision
+        XIII    Death:
+                    ending
+                    renewal
+                    inflexibility
+        XIV     Temperance:
+                    balance
+                    wisdom
+                    excess
+        XV      The devil:
+                    attachment
+                    emotion
+                    desire
+        XVI     The tower:
+                    awakening
+                    renewal
+                    prevention
+        XVII    The star:
+                    hope
+                    renewal
+                    despair
+        XVIII   The moon:
+                    illusion
+                    emotion
+                    repression
+        XIX     The sun:
+                    vitality
+                    freedom
+                    naivety
+        XX      Judgment:
+                    absolution
+                    retribution
+                    doubt
+        XXI     THE WORLD:
+                    completion
+                    abundance
+                    delay
+
+
+freedom ->      fool        | sun                   | hanged man    | 
+power ->        magician    | chariot               | strength      | 
+wisdom ->       priestess   | hierophant            | hermit        | temperance
+abundance ->    empress     | wheel of fortune      | the world     |
+retribution ->  justice     | judgment              | emperor       |
+renewal ->      death       | star                  | tower         |
+
+fool  -> freedom
+hierophant -> wisdom
+strength -> power
+wheel of fortune -> abundance
+justice -> retribution
+death -> renewal
+devil -> emotion
